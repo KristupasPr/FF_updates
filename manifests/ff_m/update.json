@@ -1,7 +1,7 @@
 {
-  "version": "2026.05.03",
+  "version": "2026.05.04",
   "mandatory": false,
   "notes": "Initial release",
-  "download_url": "",
-  "sha256": ""
+  "download_url": "https://github.com/KristupasPr/FF_updates/releases/download/ff_m-v2026.05.04/invoice_desktop.exe",
+  "sha256": "af4d38613905be484409de11c2620cfb4c595cfc2e66d1f765e6f6914edf8d2e"
 }
