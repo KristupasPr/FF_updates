@@ -1,7 +1,7 @@
 {
-  "version": "2099.05.04",
-  "mandatory": true,
-  "notes": "Initial release",
-  "download_url": "https://github.com/KristupasPr/FF_updates/releases/download/ff_m-v2026.05.04/invoice_desktop.exe",
-  "sha256": "af4d38613905be484409de11c2620cfb4c595cfc2e66d1f765e6f6914edf8d2e"
+  "version": "2.0.1",
+  "mandatory": false,
+  "notes": "Esminiai patobulinimai",
+  "download_url": "https://github.com/KristupasPr/FF_updates/releases/download/v2.0.1/invoice_desktop.exe",
+  "sha256": "6d6b7f1b82f9d84d9ecc3b2b2eba42746f68d260e38a29ddde7a9f6d65c5d675"
 }
