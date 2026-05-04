@@ -1,6 +1,6 @@
 {
   "version": "2.0.1",
-  "mandatory": false,
+  "mandatory": true,
   "notes": "Esminiai patobulinimai",
   "download_url": "https://github.com/KristupasPr/FF_updates/releases/download/v2.0.1/invoice_desktop.exe",
   "sha256": "6d6b7f1b82f9d84d9ecc3b2b2eba42746f68d260e38a29ddde7a9f6d65c5d675"
