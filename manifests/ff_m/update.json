@@ -1,7 +1,7 @@
 {
-  "version": "2.0.2",
+  "version": "v2.1.0",
   "mandatory": true,
-  "notes": "Esminiai patobulinimai",
-  "download_url": "https://github.com/KristupasPr/FF_updates/releases/download/v2.0.2/invoice_desktop.exe",
-  "sha256": "8ba46b7e8752b9e0ed0055b38665d26d2a48f5bd74f641bbc57080b0c80181d8"
+  "notes": "Atnaujinta programos išvaizda; pridėti darbo skirtukai; pridėtas PDF atkūrimas; patobulintas atnaujinimas; stabilumo pataisos",
+  "download_url": "https://github.com/KristupasPr/FF_updates/releases/download/v2.1.0/invoice_desktop_portable.zip",
+  "sha256": "22ac1443f8305a4881a3efeacb64168090a57088dd95913b53b98d4083b8f87e"
 }
