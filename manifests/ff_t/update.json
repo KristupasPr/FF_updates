@@ -1,7 +1,7 @@
 {
-  "version": "2.0.3",
+  "version": "2.0.5",
   "mandatory": false,
   "notes": "Pradinis FF_t automatinio atnaujinimo leidimas",
-  "download_url": "https://github.com/KristupasPr/FF_updates/releases/download/ff_t-v2.0.3/invoice_desktop_cert_portable.zip",
-  "sha256": "dbfa3de0cff86288937727a3148746ff0e7b9c79ec36f5f736348ac8b534c626"
+  "download_url": "https://github.com/KristupasPr/FF_updates/releases/download/ff_t-v2.0.5/invoice_desktop_cert_portable.zip",
+  "sha256": "2fa20cd1318d75878ae181020e0c695fef34e74094dd641ea70232a0b398ffb1"
 }
