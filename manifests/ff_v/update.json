@@ -1,0 +1,7 @@
+{
+  "version": "2.0.1",
+  "mandatory": false,
+  "notes": "Pirmasis FF_v auto-leidimas.",
+  "download_url": "https://github.com/KristupasPr/FF_updates/releases/download/ff_v-v2.0.1/invoice_desktop_v_portable.zip",
+  "sha256": "85d417b6ed215b6220b4110628b2daf12800e111f447d158f45ec3a53f5df6b0"
+}
