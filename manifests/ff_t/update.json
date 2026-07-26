@@ -1,7 +1,7 @@
 {
-  "version": "2.0.9",
+  "version": "2.0.11",
   "mandatory": false,
-  "notes": "Sutvarkytas numerių tikrinimas, datos tikrinimas, išsaugojimo procedūros patobulinimas",
-  "download_url": "https://github.com/KristupasPr/FF_updates/releases/download/ff_t-v2.0.9/invoice_desktop_cert_portable.zip",
-  "sha256": "eb042b7fe14ff1945f9c80fe3b2063c2717d5f5b60a7a019dfb7b9df8b0bff42"
+  "notes": "Sutvarkytas ilgesnių adresų formatavimas",
+  "download_url": "https://github.com/KristupasPr/FF_updates/releases/download/ff_t-v2.0.11/invoice_desktop_cert_portable.zip",
+  "sha256": "788e19ff00fd37225369b314f74081a394aa8906f9da8b11e4bc4c11015ec256"
 }
