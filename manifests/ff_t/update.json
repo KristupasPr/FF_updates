@@ -1,7 +1,7 @@
 {
-  "version": "2.0.11",
+  "version": "2.1.3",
   "mandatory": false,
-  "notes": "Sutvarkytas ilgesnių adresų formatavimas",
-  "download_url": "https://github.com/KristupasPr/FF_updates/releases/download/ff_t-v2.0.11/invoice_desktop_cert_portable.zip",
-  "sha256": "788e19ff00fd37225369b314f74081a394aa8906f9da8b11e4bc4c11015ec256"
+  "notes": "Sutvarkytas Sheets eksportas: išsaugomos formulės, kraštinės ir spalvos.",
+  "download_url": "https://github.com/KristupasPr/FF_updates/releases/download/ff_t-v2.1.3/invoice_desktop_cert_portable.zip",
+  "sha256": "962b6979108a62e3a00f2b2f2ea0a780e73ba9e74ab13af183dc143c540c0c33"
 }
